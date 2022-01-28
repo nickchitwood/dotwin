@@ -1,21 +1,20 @@
-# Install scoop
+# Basic command line apps
+winget install git --source winget
+winget install gsudo --source winget
 
-try {
-	$ScoopInstall = Get-Command scoop
-}
-catch {
-	$ScoopInstall = $null
-}
+# Setup sshkey
+ssh-keygen -t ed25519
 
-if ($null -eq $ScoopInstall) {
-	Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
-}
+# Setup git
+git config --global user.name "Nick Chitwood"
+git config --global user.email "nicholaschitwood@gmail.com"
 
-# Add initial extra buckets
-scoop bucket add extras 
-scoop bucket add nerd-fonts
+# Clone dot repos
+git clone git@github.com:nickchitwood/dotwin
+git clone git@github.com:nickchitwood/dotfiles
 
-# Symlink ssh from linux dotfiles
-New-Item -Type SymbolicLink -Path .\ssh -Target ..\dotfiles\ssh
+# Softlink ssh config
+sudo New-Item -Type SymbolicLink -Path .\ssh -Target ..\dotfiles\ssh
 
-# Add windows-terminal
+# WSL
+sudo wsl --install

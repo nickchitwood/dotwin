@@ -4,3 +4,5 @@
 - nerd-font
 
 ## Utilities
+
+- gfxbench

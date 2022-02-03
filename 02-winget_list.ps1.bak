@@ -26,7 +26,6 @@ winget install --id SlackTechnologies.Slack
 winget install notepad++ --source winget
 winget install code
 winget install --id Microsoft.Powershell --source winget
-winget install --id Python.Python.3
 
 # Analysis
 winget install --id RProject.R

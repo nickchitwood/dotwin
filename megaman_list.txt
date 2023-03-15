@@ -1,0 +1,204 @@
+   - 
+   - 
+Name                                     Id                                        Version             Available Source
+-----------------------------------------------------------------------------------------------------------------------
+1Password                                AgileBits.1Password                       8.10.3                        winget
+REW 5.20.13                              4549-9647-2313-4375                       5.20.13                       
+Windows Driver Package - Cypress SemicoΓÇª 6C49602345934C7EB7AE9F48B944FDC1F5A19682  05/29/2020 1.2.1.85           
+7-Zip 22.01 (x64)                        7zip.7zip                                 22.01                         winget
+AMD Chipset Software                     AMD_Chipset_IODrivers                     3.10.22.706                   
+ASIO Link Pro                            ASIOLinkPro                               Unknown                       
+Intel┬« OptaneTM Memory and Storage ManaΓÇª AppUp.IntelOptaneMemoryandStorageManagemΓÇª 19.0.1037.0                   
+MyASUS                                   B9ECED6F.ASUSPCAssistant_qmba6cd70vzyy    3.1.13.0                      
+AURA Creator                             B9ECED6F.AURACreator_qmba6cd70vzyy        3.5.7.0                       
+ARMOURY CRATE                            B9ECED6F.ArmouryCrate_qmba6cd70vzyy       5.4.10.0                      
+Bulk Rename Utility 3.4.4.0 (64-bit)     TGRMNSoftware.BulkRenameUtility           3.4.4.0                       winget
+Ubuntu on Windows                        CanonicalGroupLimited.UbuntuonWindows_79ΓÇª 2004.2022.1.0                 
+Clipchamp                                Clipchamp.Clipchamp_yxz26nhyzhsrt         2.5.15.0                      
+DTS Audio Processing                     DTSInc.DTSAudioProcessing_t5j2fzbtdg37r   1.10.9.0                      
+Discord                                  Discord.Discord                           1.0.9011                      winget
+Disney+                                  Disney.37853FC22B2CE_6rarf9sa4v8jt        1.47.3.0                      
+Duet Display                             Kairos.DuetDisplay                        2.5.0.0                       winget
+Focusrite Audio Drivers 4.102.4.735      Focusrite Audio Drivers_is1               4.102.4.735                   
+GFXbench                                 GFXbench                                  5.0.5                         
+Geekbench 5                              PrimateLabs.Geekbench.5                   Unknown             5.5.1     winget
+Git                                      Git.Git                                   2.39.2                        winget
+Google Chrome                            Google.Chrome                             111.0.5563.65                 winget
+Guild Wars 2                             Guild Wars 2                              Unknown                       
+HWiNFO64 Version 7.36                    REALiX.HWiNFO                             7.36                7.40      winget
+LTspice XVII                             LTspice XVII                              Unknown                       
+Logitech Unifying Software 2.52          Logitech.UnifyingSoftware                 2.52.33                       winget
+Meshmixer                                Meshmixer_x64                             3.5                           
+Microsoft Edge                           Microsoft.Edge                            111.0.1661.41                 winget
+Microsoft Edge Update                    Microsoft Edge Update                     1.3.173.49                    
+Microsoft Edge WebView2 Runtime          Microsoft.EdgeWebView2Runtime             110.0.1587.69                 winget
+Minecraft Launcher                       Microsoft.4297127D64EC6_8wekyb3d8bbwe     1.1.28.0                      
+Cortana                                  Microsoft.549981C3F5F10_8wekyb3d8bbwe     4.2204.13303.0                
+News                                     Microsoft.BingNews_8wekyb3d8bbwe          4.55.43072.0                  
+MSN Weather                              Microsoft.BingWeather_8wekyb3d8bbwe       4.53.50501.0                  
+App Installer                            Microsoft.DesktopAppInstaller_8wekyb3d8bΓÇª 1.19.10173.0                  
+Xbox                                     Microsoft.GamingApp_8wekyb3d8bbwe         2303.1000.47.0                
+Gaming Services                          Microsoft.GamingServices_8wekyb3d8bbwe    10.75.13001.0                 
+Get Help                                 Microsoft.GetHelp_8wekyb3d8bbwe           10.2301.10372.0               
+Microsoft Tips                           Microsoft.Getstarted_8wekyb3d8bbwe        1.3.42522.0                   
+HEIF Image Extensions                    Microsoft.HEIFImageExtension_8wekyb3d8bbΓÇª 1.0.60431.0                   
+Microsoft Edge                           Microsoft.MicrosoftEdge.Stable_8wekyb3d8ΓÇª 111.0.1661.41                 
+Microsoft 365 (Office)                   Microsoft.MicrosoftOfficeHub_8wekyb3d8bbΓÇª 18.2301.1131.0                
+Solitaire & Casual Games                 Microsoft.MicrosoftSolitaireCollection_8ΓÇª 4.15.12020.0                  
+Microsoft Sticky Notes                   Microsoft.MicrosoftStickyNotes_8wekyb3d8ΓÇª 4.0.4509.0                    
+Minecraft for Windows 10                 Microsoft.MinecraftUWP_8wekyb3d8bbwe      1.19.7002.0                   
+OneNote for Windows 10                   Microsoft.Office.OneNote_8wekyb3d8bbwe    16001.14326.21146.0           
+OneDrive                                 Microsoft.OneDriveSync_8wekyb3d8bbwe      23043.226.1.0                 
+Paint                                    Microsoft.Paint_8wekyb3d8bbwe             11.2301.22.0                  
+Microsoft People                         Microsoft.People_8wekyb3d8bbwe            10.2105.4.0                   
+Power Automate                           Microsoft.PowerAutomateDesktop_8wekyb3d8ΓÇª 1.0.414.0                     
+PowerToys ImageResizer Context Menu      Microsoft.PowerToys.ImageResizerContextMΓÇª 0.67.1.0                      
+PowerToys PowerRename Context Menu       Microsoft.PowerToys.PowerRenameContextMeΓÇª 0.67.1.0                      
+Raw Image Extension                      Microsoft.RawImageExtension_8wekyb3d8bbwe 2.1.40041.0                   
+Snipping Tool                            Microsoft.ScreenSketch_8wekyb3d8bbwe      11.2302.4.0                   
+Windows Security                         Microsoft.SecHealthUI_8wekyb3d8bbwe       1000.25305.1000.0             
+Store Experience Host                    Microsoft.StorePurchaseApp_8wekyb3d8bbwe  12207.44.6.0                  
+Microsoft To Do                          Microsoft.Todos_8wekyb3d8bbwe             2.91.6552.0                   
+VP9 Video Extensions                     Microsoft.VP9VideoExtensions_8wekyb3d8bbΓÇª 1.0.52781.0                   
+Web Media Extensions                     Microsoft.WebMediaExtensions_8wekyb3d8bbΓÇª 1.0.42192.0                   
+Webp Image Extensions                    Microsoft.WebpImageExtension_8wekyb3d8bbΓÇª 1.0.52351.0                   
+Windows App Runtime DDLM 2000.609.1413.ΓÇª Microsoft.WinAppRuntime.DDLM.2000.609.14ΓÇª 2000.609.1413.0               
+Windows App Runtime DDLM 2000.609.1413.ΓÇª Microsoft.WinAppRuntime.DDLM.2000.609.14ΓÇª 2000.609.1413.0               
+Microsoft Photos                         Microsoft.Windows.Photos_8wekyb3d8bbwe    2023.11010.17009.0            
+Windows Clock                            Microsoft.WindowsAlarms_8wekyb3d8bbwe     11.2212.2.0                   
+Windows Calculator                       Microsoft.WindowsCalculator_8wekyb3d8bbwe 11.2210.0.0                   
+Windows Camera                           Microsoft.WindowsCamera_8wekyb3d8bbwe     2022.2210.9.0                 
+Feedback Hub                             Microsoft.WindowsFeedbackHub_8wekyb3d8bbΓÇª 1.2203.761.0                  
+Windows Maps                             Microsoft.WindowsMaps_8wekyb3d8bbwe       1.0.49.0                      
+Windows Notepad                          Microsoft.WindowsNotepad_8wekyb3d8bbwe    11.2302.16.0                  
+Windows Voice Recorder                   Microsoft.WindowsSoundRecorder_8wekyb3d8ΓÇª 1.0.63.0                      
+Microsoft Store                          Microsoft.WindowsStore_8wekyb3d8bbwe      22301.1401.6.0                
+Windows Terminal                         Microsoft.WindowsTerminal                 1.16.10262.0                  winget
+Windows Package Manager Source (winget)  Microsoft.Winget.Source_8wekyb3d8bbwe     2023.315.129.39               
+Xbox TCUI                                Microsoft.Xbox.TCUI_8wekyb3d8bbwe         1.24.10001.0                  
+Xbox Console Companion                   Microsoft.XboxApp_8wekyb3d8bbwe           48.89.25001.0                 
+Xbox Accessories                         Microsoft.XboxDevices_8wekyb3d8bbwe       2209.2209.14005.0             
+Xbox Game Bar Plugin                     Microsoft.XboxGameOverlay_8wekyb3d8bbwe   1.54.4001.0                   
+Xbox Game Bar                            Microsoft.XboxGamingOverlay_8wekyb3d8bbwe 5.823.1271.0                  
+Xbox Identity Provider                   Microsoft.XboxIdentityProvider_8wekyb3d8ΓÇª 12.95.3001.0                  
+Xbox Game Speech Window                  Microsoft.XboxSpeechToTextOverlay_8wekybΓÇª 1.21.13002.0                  
+Phone Link                               Microsoft.YourPhone_8wekyb3d8bbwe         1.23012.167.0                 
+Windows Media Player                     Microsoft.ZuneMusic_8wekyb3d8bbwe         11.2301.27.0                  
+Movies & TV                              Microsoft.ZuneVideo_8wekyb3d8bbwe         10.22091.10031.0              
+Quick Assist                             MicrosoftCorporationII.QuickAssist_8wekyΓÇª 2.0.19.0                      
+WinAppRuntime.Main.1.2-p1                MicrosoftCorporationII.WinAppRuntime.MaiΓÇª 2000.609.1413.0               
+WinAppRuntime.Singleton-p1               MicrosoftCorporationII.WinAppRuntime.SinΓÇª 2000.609.1413.0               
+Microsoft Teams                          MicrosoftTeams_8wekyb3d8bbwe              23034.1303.1917.91ΓÇª           
+Windows Web Experience Pack              MicrosoftWindows.Client.WebExperience_cwΓÇª 423.5900.0.0                  
+Mozilla Firefox (x64 en-US)              Mozilla Firefox 111.0 (x64 en-US)         111.0                         
+Mozilla Maintenance Service              MozillaMaintenanceService                 103.0.2                       
+NVIDIA Control Panel                     NVIDIACorp.NVIDIAControlPanel_56jybvy8scΓÇª 8.1.964.0                     
+Notepad++ (64-bit x64)                   Notepad++.Notepad++                       8.4.9               8.5       winget
+Microsoft 365 Apps for enterprise - en-ΓÇª Microsoft.Office                          16.0.16130.20218              winget
+Microsoft OneDrive                       Microsoft.OneDrive                        23.043.0226.0001              winget
+OnePlus USB Drivers 1.00                 OnePlus USB Drivers 1.00                  1.00                          
+Playnite                                 Playnite.Playnite                         10.9                          winget
+Plex                                     Plex.Plex                                 1.64.2              1.65.1    winget
+R for Windows 4.2.2                      RProject.R                                4.2.2                         winget
+RStudio                                  RStudio.RStudio.OpenSource                2022.12.0+353                 winget
+Realtek Audio Control                    RealtekSemiconductorCorp.RealtekAudioConΓÇª 1.29.256.0                    
+Affinity Designer 2                      SerifEuropeLtd.AffinityDesigner2_3cqzy0nΓÇª 2.0.3.1688                    
+Affinity Photo 2                         SerifEuropeLtd.AffinityPhoto2_3cqzy0nppvΓÇª 2.0.3.1688                    
+Affinity Publisher 2                     SerifEuropeLtd.AffinityPublisher2_3cqzy0ΓÇª 2.0.3.1688                    
+Spotify Music                            SpotifyAB.SpotifyMusic_zpdnekdrzrea0      1.206.863.0                   
+Steam                                    Valve.Steam                               2.10.91.91                    winget
+ELDEN RING                               Steam App 1245620                         Unknown                       
+To the Moon                              Steam App 206440                          Unknown                       
+RimWorld                                 Steam App 294100                          Unknown                       
+CrossCode                                Steam App 368340                          Unknown                       
+Factorio                                 Steam App 427520                          Unknown                       
+Borderlands 2                            Steam App 49520                           Unknown                       
+Black Desert                             Steam App 582660                          Unknown                       
+Disco Elysium                            Steam App 632470                          Unknown                       
+Recettear: An Item Shop's Tale           Steam App 70400                           Unknown                       
+Death's Door                             Steam App 894020                          Unknown                       
+UltiMaker Cura 5.2.2                     Ultimaker.Cura                            5.2.2                         winget
+Ubisoft Connect                          Ubisoft.Connect                           138.2.10815         138.3.10ΓÇª winget
+Watch_Dogs                               Uplay Install 274                         Unknown                       
+Assassin's Creed Origins                 Uplay Install 3539                        Unknown                       
+Rayman Origins                           Uplay Install 80                          Unknown                       
+WinDirStat 1.1.2                         WinDirStat.WinDirStat                     Unknown             1.1.2     winget
+XIVLauncher                              goatcorp.XIVLauncher                      6.3.4                         winget
+YNAB 4 version 4.3.857                   com.ynab.YNAB4.LiveCaptive_is1            4.3.857                       
+dupeGuru 4.3.1                           DupeGuru.DupeGuru                         4.3.1                         winget
+Mail and Calendar                        microsoft.windowscommunicationsapps_8wekΓÇª 16005.14326.21374.0           
+Slack                                    SlackTechnologies.Slack                   4.29.149                      winget
+Vidya Intarweb Playlist                  www.vipvgm.net-14029FF6_53abek4p6bmet     1.0.0.2                       
+GameSDK Service                          {021d69c3-d686-4a94-8fb5-fd1ee782fb14}    1.0.5.0                       
+Microsoft Visual C++ 2013 RedistributabΓÇª Microsoft.VCRedist.2013.x64               12.0.40664.0                  winget
+AURA Service                             {0760271b-d7d2-407b-a2ec-f17c8ce203c7}    3.05.78                       
+PowerToys (Preview) x64                  Microsoft.PowerToys                       0.67.1              0.68.1    winget
+Intel(R) Chipset Device Software         {18c38e72-a3b9-4057-97c6-c4b4d18da3d6}    10.1.19222.8341               
+Intel(R) Management Engine Components    {1CEAC85D-2590-4760-800F-8DE5E91F3700}    2242.3.34.0                   
+Microsoft Visual C++ 2010  x64 RedistriΓÇª Microsoft.VCRedist.2010.x64               10.0.40219                    winget
+AURA lighting effect add-on              {1E2EA04B-FCA7-457E-B6F4-F33E1858E859}    0.0.24                        
+Microsoft GameInput                      {1F2B6AF3-C260-8666-5950-E3FEDBC851D6}    10.1.22621.3036               
+Geeks3D FurMark 1.30.0.0                 {2397CAD4-2263-4CD0-96BE-E43A980B9C9A}_iΓÇª 1.30.0.0                      
+Futuremark SystemInfo                    {2AB5AED3-CF11-4476-9F73-886C4AB10BDD}    5.56.1143.0                   
+ROG Live Service                         {2D87BFB6-C184-4A59-9BBE-3E20CE797631}    2.0.6.0                       
+Apple Mobile Device Support              {2E4AF2A6-50EA-4260-9BA4-5E582D11879A}    9.3.0.15                      
+ROG FAN XPERT 4                          {2dfe216d-3481-4684-ad4d-2566bd7cfe4f}    2.02.02                       
+Microsoft Windows Desktop Runtime - 7.0ΓÇª Microsoft.DotNet.DesktopRuntime.7         7.0.4                         winget
+Paprika Recipe Manager 3                 PaprikaApp.Paprika.3                      3.2.4                         winget
+ASUS Framework Service                   {339A6383-7862-46DA-8A9D-E84180EF9424}    3.1.2.4                       
+Microsoft Visual C++ 2012 RedistributabΓÇª Microsoft.VCRedist.2012.x86               11.0.61030.0                  winget
+TightVNC                                 GlavSoft.TightVNC                         2.8.63.0                      winget
+Windows Subsystem for Linux WSLg Preview {3CBDE512-7510-4F90-B1C0-7C4EB9DD7C26}    1.0.27                        
+blender                                  BlenderFoundation.Blender                 3.4.1                         winget
+Python 3.11.2 (64-bit)                   Python.Python.3.11                        3.11.2                        winget
+Logitech G HUB                           Logitech.GHUB                             2023.2.376231                 winget
+GlobalProtect                            {61198C02-9541-4A78-A917-8C4CAC611962}    6.0.3                         
+Synergy (64-bit)                         {620E245E-0F4A-42EC-8186-6A408DEB45BA}    1.14.5                        
+Microsoft Visual C++ 2015-2022 RedistriΓÇª Microsoft.VCRedist.2015+.x86              14.34.31931.0                 winget
+Microsoft Visual C++ 2005 RedistributabΓÇª Microsoft.VCRedist.2005.x86               8.0.61001                     winget
+Epic Online Services                     {758842D2-1538-4008-A8E3-66F65A061C52}    2.0.33.0                      
+Hero Lab 8.9h                            {760AA190-82DF-4A80-BE05-B9FEEC88946D}_iΓÇª 8.9h                          
+Microsoft Visual Studio Code (User)      Microsoft.VisualStudioCode                1.75.1              1.76.1    winget
+Veeam Agent for Microsoft Windows        {7796202E-3320-41ED-9A2C-14613AEED3D3}    5.0.3.4708                    
+Microsoft SQL Server 2012 Management ObΓÇª {7ED2561C-FBC2-421E-A2B5-C7BEFD623145}    11.4.7001.0                   
+Logi Options+                            Logitech.OptionsPlus                      1.34.376143                   winget
+Yubico Authenticator                     Yubico.Authenticator                      6.1.0                         winget
+Realtek Ethernet Controller Driver       {8833FFB6-5B0C-4764-81AA-06DFEED9A476}    11.7.0318.2022                
+PowerShell 7-x64                         Microsoft.PowerShell                      7.3.3.0                       winget
+iMazing Converter 2.0.5.0                {907AAA47-68DC-4FB3-A50E-E69A8994D2B0}_iΓÇª 2.0.5.0                       
+ASUS Motherboard                         {93795eb8-bd86-4d4d-ab27-ff80f9467b37}    3.03.09                       
+calibre 64bit                            calibre.calibre                           6.13.0              6.14.0    winget
+Microsoft Visual C++ 2008 RedistributabΓÇª Microsoft.VCRedist.2008.x86               9.0.30729.6161                winget
+Intel(R) Serial IO                       {9FD91C5C-44AE-4D9D-85BE-AE52816B0294}    30.100.2131.26                
+Node.js                                  OpenJS.NodeJS                             19.6.1              19.8.0    winget
+gsudo v2.0.4                             gerardog.gsudo                            2.0.4                         winget
+NVIDIA Graphics Driver 528.02            {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_DΓÇª 528.02                        
+NVIDIA GeForce Experience 3.27.0.112     Nvidia.GeForceExperience                  3.27.0.112                    winget
+NVIDIA PhysX System Software 9.21.0713   Nvidia.PhysX                              9.21.0713                     winget
+NVIDIA FrameView SDK 1.3.8513.32290073   {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_FΓÇª 1.3.8513.32290073             
+NVIDIA HD Audio Driver 1.3.39.16         {B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_HΓÇª 1.3.39.16                     
+Bonjour                                  {B91110FB-33B4-468B-90C2-4D5E8AE3FAE1}    2.0.2.0                       
+Microsoft SQL Server 2012 Express LocalΓÇª {C18B132E-4032-4425-826A-24B1CA9DFF0C}    11.4.7001.0                   
+Apple Application Support (64-bit)       {C2651553-6CA3-4822-B2E6-BC4ACA6E0EA2}    4.3.1                         
+Python Launcher                          {C28EE783-FA9C-4E09-910E-181A4A28C29C}    3.11.2150.0                   
+AURA lighting effect add-on x64          {C5A4A164-4428-4931-B728-96EEF0FA3C44}    0.0.24                        
+QuickLook                                QL-Win.QuickLook                          3.7.3.0                       winget
+AI Suite 3                               {CD36E28B-6023-469A-91E7-049A2874EC13}    3.01.10                       
+Microsoft System CLR Types for SQL ServΓÇª {CECCBAE9-1880-411E-9D28-8E562F6DAAE2}    11.4.7001.0                   
+Samsung USB Driver for Mobile Phones     {D0795B21-0CDA-4a92-AB9E-6E92D8111E44}    1.7.23.0                      
+Microsoft XNA Framework RedistributableΓÇª Microsoft.XNARedist                       4.0.30901.0                   winget
+PDFsam Basic                             PDFsam.PDFsam                             5.0.3.0                       winget
+ARMOURY CRATE Lite Service               {EF3944FF-2501-4568-B15C-5701E726719E}    5.3.3                         
+Microsoft Update Health Tools            {EF9EBC42-6969-45CE-A8D2-B9249B00C838}    5.69.0.0                      
+Microsoft Visual C++ 2010  x86 RedistriΓÇª Microsoft.VCRedist.2010.x86               10.0.40219                    winget
+OpenJDK 1.8.0_332-1-ojdkbuild            ojdkbuild.ojdkbuild                       1.8.3321.9                    winget
+Realtek Audio Driver                     {F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}    6.0.9244.1                    
+MSI Kombustor 4.1.19.0 (64-bit)          MSI.Kombustor.4                           Unknown             4.1.20.0  winget
+Windows Subsystem for Linux Update       {F8474A47-8B5D-4466-ACE3-78EAB3BF21A8}    5.10.102.1                    
+Epic Games Launcher                      EpicGames.EpicGamesLauncher               1.3.23.0                      winget
+Microsoft Visual C++ 2008 RedistributabΓÇª {FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4}    9.0.21022                     
+SyncTrayzor (x64) version 1.1.29.0       SyncTrayzor.SyncTrayzor                   1.1.29.0                      winget
+Microsoft Visual C++ 2012 RedistributabΓÇª Microsoft.VCRedist.2012.x64               11.0.61030.0                  winget
+VMware Horizon Client                    VMware.HorizonClient                      8.8.0.33776                   winget
+Microsoft Visual C++ 2015-2022 RedistriΓÇª Microsoft.VCRedist.2015+.x64              14.34.31931.0                 winget
+Python 3.10.9 (64-bit)                   Python.Python.3.10                        3.10.9                        winget
